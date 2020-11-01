@@ -1,0 +1,8 @@
+.RollDice button {
+  width: 10rem;
+  border: none;
+  border-radius: 10px;
+  background-color: #000;
+  color: #ffffff;
+  padding: 1rem;
+}
